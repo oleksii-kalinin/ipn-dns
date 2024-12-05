@@ -4,7 +4,7 @@ go 1.22.2
 
 require (
 	github.com/coredns/coredns v1.11.2
-	github.com/damomurf/coredns-tailscale v0.3.6-0.20240404225241-98dc7fc48622
+	github.com/damomurf/coredns-tailscale v0.3.10
 )
 
 require (
