@@ -2,7 +2,7 @@ ipn.okalin.in {
   hosts {
     # some resolvers will recheck the entries for DNS glue records at the delegate nameserver.
     # Manually specify these hosts, since they won't appear in the Tailscale node list.
-    37.16.12.98 ns1.ipn.okalin.in ns2.ipn.okalin.in
+    213.188.218.24 ns1.ipn.okalin.in ns2.ipn.okalin.in
     fallthrough
   }
   tailscale ipn.okalin.in {
